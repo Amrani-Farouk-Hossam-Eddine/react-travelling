@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-trave-2/static/css/main.49f29ba8.css",
+    "main.js": "/react-trave-2/static/js/main.445eef65.js",
+    "index.html": "/react-trave-2/index.html",
+    "main.49f29ba8.css.map": "/react-trave-2/static/css/main.49f29ba8.css.map",
+    "main.445eef65.js.map": "/react-trave-2/static/js/main.445eef65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49f29ba8.css",
+    "static/js/main.445eef65.js"
+  ]
+}
